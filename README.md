@@ -49,8 +49,11 @@
 
 ## OUTPUT
 <img width="348" height="385" alt="image" src="https://github.com/user-attachments/assets/434adca9-c5bd-487e-995a-0efb488e166f" />
+
 <img width="369" height="386" alt="image" src="https://github.com/user-attachments/assets/03d64e79-9f7e-475e-9a16-89391406557c" />
+
 <img width="372" height="215" alt="image" src="https://github.com/user-attachments/assets/4c1ed7bb-60b6-49ed-9017-d40577e829a2" />
+
 <img width="365" height="488" alt="image" src="https://github.com/user-attachments/assets/689a4e46-3657-4c01-851c-d4b44ed54147" />
 
 

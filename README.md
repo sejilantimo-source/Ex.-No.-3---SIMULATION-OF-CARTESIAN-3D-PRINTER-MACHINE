@@ -58,7 +58,8 @@
 
 
 ## Output:
-<img width="372" height="252" alt="image" src="https://github.com/user-attachments/assets/1be1cc8f-274a-4c34-9c9a-ef2a42d925f7" />
+<img width="1261" height="828" alt="image" src="https://github.com/user-attachments/assets/88bd178e-dc57-453d-b2ba-44113a673b6b" />
+
 
 ### Name: 
 ### Register Number:
